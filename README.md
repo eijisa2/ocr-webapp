@@ -2,7 +2,7 @@
 
 A modern web-based OCR (Optical Character Recognition) application that extracts text from images and PDF files using Tesseract OCR engine. Built with FastAPI, Python, and Docker.
 
-![Dark Theme Interface](app/static/index.html) <!-- Note: You can add a screenshot later -->
+![OCR Web Application Screenshot ](DrawGen.png)
 
 ## Features
 
