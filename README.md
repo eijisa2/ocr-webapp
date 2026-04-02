@@ -371,8 +371,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: Emrah
-- **Project Link**: [https://github.com/yourusername/ocr-webapp](https://github.com/yourusername/ocr-webapp)
+- **Author**: eijisa2
+- **Project Link**: [https://github.com/eijisa2/ocr-webapp](https://github.com/eijisa2/ocr-webapp)
 
 ---
 
